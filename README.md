@@ -31,3 +31,33 @@ java后端网上家校页面简单，主要分为家长端和老师端
 tomcat服务器，jsp，html，el表达式，ajax，mysql，servlet，
 ------------------------
 这个项目比较简单没有用到java一些框架，还有就是网页比较简单
+效果图
+主页面
+![主页面](https://user-images.githubusercontent.com/84490480/119013086-3abd9480-b9c9-11eb-8897-9c5ea7b339f3.PNG)
+登录页面
+![登录页面](https://user-images.githubusercontent.com/84490480/119013113-4446fc80-b9c9-11eb-9c7a-3b3dfff2f792.PNG)
+ 其中分为学生端和教师端
+ 学生端功能
+ 功能页面
+ ![修改密码](https://user-images.githubusercontent.com/84490480/119013392-83754d80-b9c9-11eb-986d-3b73fbf0c218.PNG)
+![学生查询成绩](https://user-images.githubusercontent.com/84490480/119013395-84a67a80-b9c9-11eb-8021-4e2befa31dbc.PNG)
+![学生查询作业](https://user-images.githubusercontent.com/84490480/119013399-853f1100-b9c9-11eb-8b15-b8020c33b17e.PNG)
+![学生反馈信息](https://user-images.githubusercontent.com/84490480/119013401-853f1100-b9c9-11eb-933c-d68277e7c1f0.PNG)
+![学生添加信息](https://user-images.githubusercontent.com/84490480/119013403-86703e00-b9c9-11eb-8934-d9bc976cdcab.PNG)
+![学生账号修改密码](https://user-images.githubusercontent.com/84490480/119013406-8708d480-b9c9-11eb-8552-5807f89ecbef.PNG)
+教师端功能页面
+
+![老师查询反馈学生信息](https://user-images.githubusercontent.com/84490480/119013500-a30c7600-b9c9-11eb-9d8c-d4c3fa873de4.PNG)
+![老师查询学生信息](https://user-images.githubusercontent.com/84490480/119013504-a43da300-b9c9-11eb-8be1-e8d280878469.PNG)
+![老师添加学生成绩](https://user-images.githubusercontent.com/84490480/119013505-a43da300-b9c9-11eb-8970-b738f291b481.PNG)
+![老师添加作业](https://user-images.githubusercontent.com/84490480/119013506-a4d63980-b9c9-11eb-998e-a97142176c6c.PNG)
+![老师修改学生信息](https://user-images.githubusercontent.com/84490480/119013508-a56ed000-b9c9-11eb-81d1-e0d7c8a2c462.PNG)
+![老师修改作业信息](https://user-images.githubusercontent.com/84490480/119013512-a6076680-b9c9-11eb-8823-065cf6251612.PNG)
+![修改密码](https://user-images.githubusercontent.com/84490480/119013516-a69ffd00-b9c9-11eb-8c7b-4c505bf7821f.PNG)
+
+
+
+
+
+
+
